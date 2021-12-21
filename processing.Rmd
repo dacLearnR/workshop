@@ -68,6 +68,7 @@ data %>% select(kode_kota, nama_kota)
 ### Change Column Name
 ```{r}
 data <- data %>% rename(no = X)
+data
 ```
 
 
