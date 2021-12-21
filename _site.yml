@@ -5,7 +5,13 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Processing Data"
-      href: processing.html
+      href: 01-processing.html
+    - text: "Vaccine"
+      href: 02-vaksin.html
+    - text: "Covid"
+      href: 03-covid.html
+    - text: "Maps"
+      href: 04-maps.html
     - text: "About"
       href: about.html
 output_dir: "docs"
