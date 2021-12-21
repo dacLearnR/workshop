@@ -1,6 +1,6 @@
-name: "Starter Webiste R"
+name: "DAC"
 navbar:
-  title: "Starter Webiste R"
+  title: "Workshop Data Analytics"
   left:
     - text: "Home"
       href: index.html
